@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.sublime-project": "json",
+			"unordered_map": "cpp"
+		},
+
+		// Papyrus
+		"papyrus.fo4.compiler.target": "Data\\Scripts\\Source\\Halo_MjolnirTest\\Build.ppj",
+		"papyrus.fo4.compiler.imports": [
+			"Data\\Scripts\\Source\\MCM",
+			"Data\\Scripts\\Source\\F4SE",
+			"Data\\Scripts\\Source\\DLC00",
+			"Data\\Scripts\\Source\\Base"
+		],
+
+		// Papyrus Language
+		"papyrus.fallout4.enabled": true,
+		"papyrus.fallout4.installPath": "E:\\Games\\Steam\\steamapps\\common\\Fallout 4",
+		"papyrus.fallout4.creationKitIniFiles": [
+			"CreationKit.ini",
+			"CreationKitCustom.ini"
+		],
+
+
+	}
+}

@@ -1,0 +1,1 @@
+../Interface/Source/MyMod/Menu.fla	../Interface/MyMod/Menu.swf

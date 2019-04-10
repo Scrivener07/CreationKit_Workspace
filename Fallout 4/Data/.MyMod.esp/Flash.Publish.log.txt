@@ -1,0 +1,8 @@
+Running compile on undefined files at: file:///E|/Games/Steam/steamapps/common/Fallout%204/Data/.MyMod.esp/
+
+---------------------------------------------------------------------------
+Compiling ../Interface/Source/MyMod/Menu.fla
+---------------------------------------------------------------------------
+
+Compiled ../Interface/Source/MyMod/Menu.fla successfully.
+Moved ../Interface/Source/MyMod/Menu.swf to ../Interface/MyMod/Menu.swf successfully.

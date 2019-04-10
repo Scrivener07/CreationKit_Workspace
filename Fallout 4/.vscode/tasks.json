@@ -191,7 +191,8 @@
 				"Overlays.esm",
 				"OverlaysTest.esp",
 				"Scopes.esm",
-				"ScopesTest.esp"
+				"ScopesTest.esp",
+				"MyMod.esp"
 			]
 		},
 		{

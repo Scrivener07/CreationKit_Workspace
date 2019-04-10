@@ -1,0 +1,3 @@
+Textures\MyMod\Red.dds
+Textures\MyMod\Green.dds
+Textures\MyMod\Blue.dds

@@ -1,0 +1,4 @@
+Interface\MyMod\Menu.swf
+Scripts\MyMod\Papyrus.pex
+Scripts\MyMod\Setup.pex
+Scripts\MyMod\Type.pex
